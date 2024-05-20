@@ -9,7 +9,9 @@ This page currently displays various projects I built during my studies. I am qu
 - <b>Image & Memory carving (Incident Response)</b>
   - [Bash automation script for Data Recovery](https://github.com/icon5730/Data_Extractor)
 - <b>Network scanning, Vulnerability seeking and Brute Force (Penetration Testing)</b>
-  - [Bash automation script for Pentesting](https://github.com/icon5730/Port_Buster) 
+  - [Bash automation script for Pentesting](https://github.com/icon5730/Port_Buster)
+- <b>Active Directory network scanning, enumeration and exploitation (Penetration Testing)</b>
+  - [Bash automation script for Active Directory Enumeration & Pentesting](https://github.com/icon5730/AD_Enum) 
 
 
 
