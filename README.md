@@ -6,6 +6,8 @@ This page currently displays various projects I built during my studies. I am qu
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+![images](https://github.com/user-attachments/assets/1f691265-41de-4b78-9d55-4fc95b967ae9)
+
 - <b>System Info display script (Linux Fundementals)</b>
   - [Bash automation script for displaying your Linux system info](https://github.com/icon5730/SysInfo)
 - <b>Rot13 encryption/decryption (Cryptography)</b>
