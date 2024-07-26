@@ -20,7 +20,8 @@ This page currently displays various projects I built during my studies. I am qu
   - [Bash automation script for Pentesting](https://github.com/icon5730/Port_Buster)
 - <b>Active Directory network scanning, enumeration and exploitation (Penetration Testing)</b>
   - [Bash automation script for Active Directory Enumeration & Pentesting](https://github.com/icon5730/AD_Enum) 
-
+- <b>LAN scanning and attack simulator to test local detection and prevention systems (SIEM Testing)</b>
+  - [Bash automation script for simulating attacks on your LAN](https://github.com/icon5730/LAN_Abuser) 
 
 
 <h2> 🤳 Connect with me:</h2>
