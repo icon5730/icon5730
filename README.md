@@ -10,6 +10,8 @@ This page currently displays various projects I built during my studies. I am qu
   - [Bash automation script for displaying your Linux system info](https://github.com/icon5730/SysInfo)
 - <b>Rot13 encryption/decryption (Cryptography)</b>
   - [Bash automation script for Rot13 encryption/decryption](https://github.com/icon5730/Rot13)
+- <b>Anonymous scanning via third party server (Reconnaissance)</b>
+  - [Bash automation script for scannig targets anonymously](https://github.com/icon5730/SpySeek)
 - <b>Image & Memory carving (Incident Response)</b>
   - [Bash automation script for Data Recovery](https://github.com/icon5730/Data_Extractor)
 - <b>Network scanning, Vulnerability seeking and Brute Force (Penetration Testing)</b>
