@@ -21,7 +21,9 @@ This page currently displays various projects I built during my studies. I am qu
 - <b>Active Directory network scanning, enumeration and exploitation (Penetration Testing)</b>
   - [Bash automation script for Active Directory Enumeration & Pentesting](https://github.com/icon5730/AD_Enum) 
 - <b>LAN scanning and attack simulator to test local detection and prevention systems (SIEM/IDS/IPS Testing)</b>
-  - [Bash automation script for simulating attacks on your LAN](https://github.com/icon5730/LAN_Abuser) 
+  - [Bash automation script for simulating attacks on your LAN](https://github.com/icon5730/LAN_Abuser)
+- <b>Autoinstalling a key tool for Layer 2 attacks (Miscellaneous)</b>
+  - [Bash automation script for installing Yersinia on Kali Linux](https://github.com/icon5730/Yersinia_Installer)
 
 
 <h2> 🤳 Connect with me:</h2>
