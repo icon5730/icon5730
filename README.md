@@ -1,8 +1,13 @@
-<h1>Hi, I'm Ilya! <br/><a href="https://github.com/icon5730/">A Cybersecurity Student</a></h1>
+<h1>Hi, I'm Ilya! <br/><a href="https://github.com/icon5730/">A Cybersecurity Enthusiast</a></h1>
 
 Hello and welcome to my landing page.
-I am a Cybersecurity student, currently taking my first steps in the field.
-This page currently displays various projects I built during my studies. I am quite passionate about the field, and hope my work will be able to reflect that.
+
+I am currently taking my first steps in the field of Cybersecurity.
+
+This page currently displays various projects and scripts I built during my studies and on my own. 
+
+I am quite passionate about the field, and hope my work will be able to reflect that.
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
