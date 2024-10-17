@@ -27,7 +27,7 @@ I am quite passionate about the field, and hope my work will be able to reflect 
   - [Bash automation script for Active Directory Enumeration & Pentesting](https://github.com/icon5730/AD_Enum) 
 - <b>LAN scanning and attack simulator to test local detection and prevention systems (SIEM/IDS/IPS Testing)</b>
   - [Bash automation script for simulating attacks on your LAN](https://github.com/icon5730/LAN_Abuser)
-- <b>Yersinia installer for Layer 2 attacks (Miscellaneous)</b>
+- <b>Yersinia (Layer 2 attack tool) installer (Miscellaneous)</b>
   - [Bash automation script for installing Yersinia on Kali Linux](https://github.com/icon5730/Yersinia_Installer)
 
 
