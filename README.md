@@ -29,6 +29,8 @@ I am quite passionate about the field, and hope my work will be able to reflect 
   - [Bash automation script for simulating attacks on your LAN](https://github.com/icon5730/LAN_Abuser)
 - <b>Yersinia (Layer 2 attack tool) installer (Miscellaneous)</b>
   - [Bash automation script for installing Yersinia on Kali Linux](https://github.com/icon5730/Yersinia_Installer)
+- <b>Apache2 SSL Server Setup (Server Security)</b> 
+  - [Bash automation script for setting up https support for Apache2](https://github.com/icon5730/Apache_SSL)
 
 
 <h2> 🤳 Connect with me:</h2>
