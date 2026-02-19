@@ -33,6 +33,12 @@ I am quite passionate about the field, and hope my work will be able to reflect 
   - [Bash automation script for setting up https support for Apache2](https://github.com/icon5730/Apache_SSL)
 
 
+
+<h2> <img width="32" height="32" alt="icon_misc_scripts_32" src="https://github.com/user-attachments/assets/43498e88-0a4c-4ab9-afee-db279411a5a4" /> Miscellaneous:</h2>
+
+- <b>Firefox/Thunderbird icon changer</b>
+  - [Bash automation script to easily change the Firefox/Tunderbird icon](https://github.com/icon5730/iconchange)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="IlyaPolnarov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
